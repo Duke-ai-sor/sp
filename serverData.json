@@ -1,0 +1,99 @@
+{
+  "1403828980926124032": {
+    "users": {
+      "890739013160402964": {
+        "points": 1115,
+        "tasksCompleted": 7,
+        "dailyStreak": 1,
+        "lastDailyQuote": "Sat Aug 30 2025",
+        "joinDate": "2025-08-25T04:42:56.726Z",
+        "totalTasksStarted": 8,
+        "achievements": [
+          "Point Collector",
+          "Rising Star",
+          "Elite Staff",
+          "Legendary Staff",
+          "First Steps",
+          "Getting Started"
+        ]
+      }
+    },
+    "tasks": {
+      "Send 5 Images": {
+        "description": "N/A",
+        "points": 50,
+        "requiredActions": 5,
+        "type": "upload_image",
+        "channelId": "1403834755195338802",
+        "createdBy": "890739013160402964",
+        "createdAt": "2025-08-30T03:41:25.308Z"
+      }
+    },
+    "settings": {
+      "staffRoles": [
+        "1406326197230637316"
+      ],
+      "adminRoles": [
+        "1406326490865336350"
+      ],
+      "pointsChannel": "1403834755195338802",
+      "dailyQuotes": [
+        "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "The way to get started is to quit talking and begin doing.",
+        "Innovation distinguishes between a leader and a follower.",
+        "Your limitation—it's only your imagination.",
+        "Great things never come from comfort zones.",
+        "Dream it. Wish it. Do it.",
+        "Success doesn't just find you. You have to go out and get it.",
+        "The harder you work for something, the greater you'll feel when you achieve it.",
+        "Don't stop when you're tired. Stop when you're done.",
+        "Wake up with determination. Go to bed with satisfaction."
+      ]
+    },
+    "activeTasks": {
+      "890739013160402964": {}
+    },
+    "lastDaily": {}
+  },
+  "1365095055915876352": {
+    "users": {
+      "890739013160402964": {
+        "points": 20,
+        "tasksCompleted": 1,
+        "dailyStreak": 1,
+        "lastDailyQuote": "Sun Aug 31 2025",
+        "joinDate": "2025-08-31T15:26:36.875Z",
+        "totalTasksStarted": 1,
+        "achievements": [
+          "First Steps"
+        ]
+      }
+    },
+    "tasks": {},
+    "settings": {
+      "staffRoles": [
+        "1365675218109993070"
+      ],
+      "adminRoles": [
+        "1379981024271798373"
+      ],
+      "pointsChannel": null,
+      "dailyQuotes": [
+        "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "The way to get started is to quit talking and begin doing.",
+        "Innovation distinguishes between a leader and a follower.",
+        "Your limitation—it's only your imagination.",
+        "Great things never come from comfort zones.",
+        "Dream it. Wish it. Do it.",
+        "Success doesn't just find you. You have to go out and get it.",
+        "The harder you work for something, the greater you'll feel when you achieve it.",
+        "Don't stop when you're tired. Stop when you're done.",
+        "Wake up with determination. Go to bed with satisfaction."
+      ]
+    },
+    "activeTasks": {
+      "890739013160402964": {}
+    },
+    "lastDaily": {}
+  }
+}

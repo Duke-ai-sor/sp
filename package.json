@@ -1,0 +1,37 @@
+{
+  "name": "discord-task-bot",
+  "version": "2.0.0",
+  "description": "A feature-rich Discord bot for task management, rewards, and team collaboration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tasks",
+    "rewards",
+    "gamification"
+  ],
+  "author": "NinjaTech AI",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^2.0.1",
+    "discord-api-types": "^0.37.56",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "winston": "^3.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
